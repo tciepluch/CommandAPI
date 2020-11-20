@@ -38,3 +38,4 @@ msbuild.wrn
 *.exe
 *.o
 *.so
+src/CommandAPI/secrets.txt
